@@ -1,5 +1,5 @@
 # Bluemix Workshop App
-
+change 1
 Diese Anwendung wurde für einen Bluemix Workshop erstellt.
 
 Die Anwendung basiert auf Angular4 und einem NodeJS Backend der die Anbindung zum Watson Discovery Service erstellt.
